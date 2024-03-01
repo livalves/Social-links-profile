@@ -36,7 +36,7 @@ h1{
 }
 
 .locality{
-    color: #BADC51;
+    color: #dcc751; 
     display: block;
     font-size: 1rem;
     margin: 0.5rem 0 1rem;
@@ -67,5 +67,5 @@ h1{
 
 .container-buttons button:hover{
     color: #333333;
-    background-color: #BADC51;
+    background-color: #dcc751;
 }
